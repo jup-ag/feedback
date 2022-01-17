@@ -1,3 +1,3 @@
-# core
+# Feedback
 
 Submit your issues here
